@@ -1,1 +1,1 @@
-# notion-cli
+# notion-tui
