@@ -1,0 +1,12 @@
+# Binary
+notion-tui
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
